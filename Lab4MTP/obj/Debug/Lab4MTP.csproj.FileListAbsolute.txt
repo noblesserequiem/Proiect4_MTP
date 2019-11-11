@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\bin\Debug\Lab4MTP.exe.config
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\bin\Debug\Lab4MTP.exe
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\bin\Debug\Lab4MTP.pdb
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.Form1.resources
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.Properties.Resources.resources
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.exe
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.pdb
+C:\Users\Student\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.Form2.resources
